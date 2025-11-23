@@ -14,7 +14,7 @@ This project is built with React and can be run directly in CodeSandbox or local
 
 ## Running in with CodeSandbox
 
-* The app will run at: [http://localhost:3000 ](https://w52r37-3000.csb.app/)
+* The app will run at: [RainFocus Summit ](https://w52r37-3000.csb.app/)
 
 
 ## How to Run Locally
