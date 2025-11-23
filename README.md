@@ -35,10 +35,6 @@ This project is built with React and can be run directly in CodeSandbox or local
 
     `npm start`
 
-5. Start the Sass compiler:
-
-    `npm run sass`
-
 * The app will run at: http://localhost:3000
 * Changes to SCSS or React files will automatically update in the browser.
 
