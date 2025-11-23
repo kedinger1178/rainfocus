@@ -11,10 +11,11 @@ It includes all source files in the `src/` folder and a production-ready build i
 
 This project is built with React and can be run directly in CodeSandbox or locally on your machine.
 
+
 ## Running in with CodeSandbox
 
-1. Copy and paste this link, vmt3yd-3000.csb.app, to into your browser 
-2. Click "Yes, I trust...". to view.
+* The app will run at: http://localhost:3000 
+
 
 ## How to Run Locally
 
